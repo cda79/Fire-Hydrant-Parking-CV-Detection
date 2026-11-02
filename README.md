@@ -38,7 +38,7 @@ Blocking fire hydrant access poses severe risks during emergency response scenar
 <img src="./prediction-results/result1.jpg" alt="Result 1" width="500">
 <img src="./prediction-results/result2.jpg" alt="Result 2" width="500">
 <img src="./prediction-results/result3.jpg" alt="Result 3" width="500">
-<img src="./prediction-results/result4.jpg" alt="Result 4" width="500">
+<img src="./prediction-results/result8.jpg" alt="Result 4" width="500">
 <img src="./prediction-results/result5.jpg" alt="Result 5" width="500">
 <img src="./prediction-results/result6.jpg" alt="Result 6" width="500">
 <img src="./prediction-results/result7.jpg" alt="Result 7" width="500">
