@@ -35,4 +35,4 @@ Blocking fire hydrant access poses severe risks during emergency response scenar
 - `datasets/`: Custom YAML configuration files and annotation mappings.
 
 ## Example results (trained on validation set)
-![Result_1](./prediction-results/result1.png)
+![Result_1](./prediction-results/result1.jpg)
