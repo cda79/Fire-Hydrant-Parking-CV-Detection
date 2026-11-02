@@ -33,3 +33,6 @@ Blocking fire hydrant access poses severe risks during emergency response scenar
 - `train_model.ipynb`: Complete YOLOv8 training, hyperparameter configuration, and validation pipeline executed in Google Colab.
 - `inference_pipeline.py`: Bounding-box overlap logic and infraction-flagging script.
 - `datasets/`: Custom YAML configuration files and annotation mappings.
+
+## Example results (trained on validation set)
+(./prediction-results/result1.png)
