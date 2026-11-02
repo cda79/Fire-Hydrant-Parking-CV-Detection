@@ -34,7 +34,7 @@ Blocking fire hydrant access poses severe risks during emergency response scenar
 - `inference_pipeline.py`: Bounding-box overlap logic and infraction-flagging script.
 - `datasets/`: Custom YAML configuration files and annotation mappings.
 
-## Example results (trained on validation set)
+## Example Results (Validation Set)
 <img src="./prediction-results/result1.jpg" alt="Result 1" width="500">
 <img src="./prediction-results/result2.jpg" alt="Result 2" width="500">
 <img src="./prediction-results/result3.jpg" alt="Result 3" width="500">
